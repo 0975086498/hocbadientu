@@ -1,0 +1,10 @@
+[PropertyInfo]
+conn,java.sql.Connection,false,false, , ,false,<default>
+CP,jsoft.ConnectionPool,false,false, , ,true,<default>
+cp,jsoft.ConnectionPool,false,false, , ,false,<default>
+objectName,String,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
